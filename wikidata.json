@@ -1,13 +1,6 @@
 [
   {
     "item": {
-      "value": "Q455683",
-      "label": "Pascual Ortiz Rubio"
-    },
-    "statement": "Q455683$1B6681DA-D3C4-47E9-AC0C-57384138D685"
-  },
-  {
-    "item": {
       "value": "Q449439",
       "label": "Miguel Miramón"
     },
@@ -34,13 +27,6 @@
   },
   {
     "item": {
-      "value": "Q2500617",
-      "label": "Rómulo Díaz de la Vega"
-    },
-    "statement": "Q2500617$57D7D265-4D70-47B0-B4AE-044F62748085"
-  },
-  {
-    "item": {
       "value": "Q313122",
       "label": "Venustiano Carranza"
     },
@@ -54,150 +40,6 @@
     },
     "statement": "Q313122$24C2A6DC-F796-408E-9DE9-B8601CAE1232",
     "ordinal": "37"
-  },
-  {
-    "item": {
-      "value": "Q315621",
-      "label": "Pedro Lascuráin"
-    },
-    "replaces": {
-      "value": "Q216766",
-      "label": "Francisco I. Madero"
-    },
-    "replacedBy": {
-      "value": "Q299168",
-      "label": "Victoriano Huerta"
-    },
-    "statement": "Q315621$E7B37712-40E6-4883-958F-B4DFCF14A7CD",
-    "ordinal": "34"
-  },
-  {
-    "item": {
-      "value": "Q449399",
-      "label": "Ignacio Comonfort"
-    },
-    "replaces": {
-      "value": "Q460776",
-      "label": "Juan Álvarez Hurtado"
-    },
-    "replacedBy": {
-      "value": "Q182276",
-      "label": "Benito Juárez"
-    },
-    "statement": "Q449399$989307EC-ABAC-4C96-B89A-BFC8F982C981",
-    "ordinal": "25"
-  },
-  {
-    "item": {
-      "value": "Q380975",
-      "label": "Manuel González Flores"
-    },
-    "replaces": {
-      "value": "Q150688",
-      "label": "Porfirio Díaz"
-    },
-    "replacedBy": {
-      "value": "Q150688",
-      "label": "Porfirio Díaz"
-    },
-    "statement": "Q380975$3E463B58-9EBE-4CBB-B8EE-98A4688C560C",
-    "ordinal": "31"
-  },
-  {
-    "item": {
-      "value": "Q460776",
-      "label": "Juan Álvarez Hurtado"
-    },
-    "statement": "Q460776$9435DF3D-8BD2-4387-B973-51A752F7FB8C"
-  },
-  {
-    "item": {
-      "value": "Q365409",
-      "label": "Francisco León de la Barra"
-    },
-    "replaces": {
-      "value": "Q150688",
-      "label": "Porfirio Díaz"
-    },
-    "replacedBy": {
-      "value": "Q216766",
-      "label": "Francisco I. Madero"
-    },
-    "statement": "Q365409$D5B6DBB9-F987-4534-8035-83A8A2546E1B",
-    "ordinal": "32"
-  },
-  {
-    "item": {
-      "value": "Q431576",
-      "label": "Mariano Arista"
-    },
-    "replaces": {
-      "value": "Q373622",
-      "label": "José Joaquín de Herrera"
-    },
-    "replacedBy": {
-      "value": "Q766298",
-      "label": "Juan Bautista Ceballos"
-    },
-    "statement": "Q431576$DCFB8713-4AE8-4764-B573-D5A56FB428B9",
-    "ordinal": "19"
-  },
-  {
-    "item": {
-      "value": "Q1196814",
-      "label": "José María Iglesias"
-    },
-    "statement": "Q1196814$96F89684-A024-49E8-9C05-33E663A54791"
-  },
-  {
-    "item": {
-      "value": "Q372164",
-      "label": "Francisco S. Carvajal"
-    },
-    "replaces": {
-      "value": "Q299168",
-      "label": "Victoriano Huerta"
-    },
-    "replacedBy": {
-      "value": "Q313122",
-      "label": "Venustiano Carranza"
-    },
-    "statement": "Q372164$EE2E1D35-FF00-4EC2-8793-ACE1F9677283",
-    "ordinal": "36"
-  },
-  {
-    "item": {
-      "value": "Q597027",
-      "label": "Martín Carrera"
-    },
-    "statement": "Q597027$B5FF92C7-5C70-4646-9828-4800C07EBE84"
-  },
-  {
-    "item": {
-      "value": "Q766298",
-      "label": "Juan Bautista Ceballos"
-    },
-    "statement": "Q766298$CB96638A-6D4F-408A-B417-E098AB298B41"
-  },
-  {
-    "item": {
-      "value": "Q217498",
-      "label": "Álvaro Obregón"
-    },
-    "replaces": {
-      "value": "Q137865",
-      "label": "Adolfo de la Huerta"
-    },
-    "replacedBy": {
-      "value": "Q315066",
-      "label": "Plutarco Elías Calles"
-    },
-    "end": {
-      "value": "1924-11-30T00:00:00Z",
-      "precision": "11"
-    },
-    "statement": "Q217498$29B84AEA-2909-40C4-9B04-79B76ED2916F",
-    "ordinal": "39"
   },
   {
     "item": {
@@ -1050,6 +892,45 @@
   },
   {
     "item": {
+      "value": "Q431576",
+      "label": "Mariano Arista"
+    },
+    "replaces": {
+      "value": "Q373622",
+      "label": "José Joaquín de Herrera"
+    },
+    "replacedBy": {
+      "value": "Q766298",
+      "label": "Juan Bautista Ceballos"
+    },
+    "start": {
+      "value": "1851-01-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1853-01-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q431576$DCFB8713-4AE8-4764-B573-D5A56FB428B9",
+    "ordinal": "19"
+  },
+  {
+    "item": {
+      "value": "Q766298",
+      "label": "Juan Bautista Ceballos"
+    },
+    "start": {
+      "value": "1853-01-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1853-02-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q766298$CB96638A-6D4F-408A-B417-E098AB298B41"
+  },
+  {
+    "item": {
       "value": "Q1815444",
       "label": "Manuel María Lombardini"
     },
@@ -1062,6 +943,75 @@
       "precision": "11"
     },
     "statement": "Q1815444$18816BB7-B67C-4B76-910E-D0999CC68DE2"
+  },
+  {
+    "item": {
+      "value": "Q597027",
+      "label": "Martín Carrera"
+    },
+    "start": {
+      "value": "1855-08-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1855-09-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q597027$B5FF92C7-5C70-4646-9828-4800C07EBE84"
+  },
+  {
+    "item": {
+      "value": "Q2500617",
+      "label": "Rómulo Díaz de la Vega"
+    },
+    "start": {
+      "value": "1855-09-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1855-10-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2500617$57D7D265-4D70-47B0-B4AE-044F62748085"
+  },
+  {
+    "item": {
+      "value": "Q460776",
+      "label": "Juan Álvarez Hurtado"
+    },
+    "start": {
+      "value": "1855-10-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1855-12-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q460776$9435DF3D-8BD2-4387-B973-51A752F7FB8C"
+  },
+  {
+    "item": {
+      "value": "Q449399",
+      "label": "Ignacio Comonfort"
+    },
+    "replaces": {
+      "value": "Q460776",
+      "label": "Juan Álvarez Hurtado"
+    },
+    "replacedBy": {
+      "value": "Q182276",
+      "label": "Benito Juárez"
+    },
+    "start": {
+      "value": "1855-12-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1857-12-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q449399$989307EC-ABAC-4C96-B89A-BFC8F982C981",
+    "ordinal": "25"
   },
   {
     "item": {
@@ -1135,6 +1085,45 @@
   },
   {
     "item": {
+      "value": "Q1196814",
+      "label": "José María Iglesias"
+    },
+    "start": {
+      "value": "1876-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1876-11-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1196814$96F89684-A024-49E8-9C05-33E663A54791"
+  },
+  {
+    "item": {
+      "value": "Q380975",
+      "label": "Manuel González Flores"
+    },
+    "replaces": {
+      "value": "Q150688",
+      "label": "Porfirio Díaz"
+    },
+    "replacedBy": {
+      "value": "Q150688",
+      "label": "Porfirio Díaz"
+    },
+    "start": {
+      "value": "1880-12-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1884-11-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q380975$3E463B58-9EBE-4CBB-B8EE-98A4688C560C",
+    "ordinal": "31"
+  },
+  {
+    "item": {
       "value": "Q150688",
       "label": "Porfirio Díaz"
     },
@@ -1159,6 +1148,30 @@
   },
   {
     "item": {
+      "value": "Q365409",
+      "label": "Francisco León de la Barra"
+    },
+    "replaces": {
+      "value": "Q150688",
+      "label": "Porfirio Díaz"
+    },
+    "replacedBy": {
+      "value": "Q216766",
+      "label": "Francisco I. Madero"
+    },
+    "start": {
+      "value": "1911-05-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1911-11-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q365409$D5B6DBB9-F987-4534-8035-83A8A2546E1B",
+    "ordinal": "32"
+  },
+  {
+    "item": {
       "value": "Q216766",
       "label": "Francisco I. Madero"
     },
@@ -1179,6 +1192,30 @@
       "precision": "11"
     },
     "statement": "Q216766$18D27024-9471-4CF6-BC27-00683A9E715C"
+  },
+  {
+    "item": {
+      "value": "Q315621",
+      "label": "Pedro Lascuráin"
+    },
+    "replaces": {
+      "value": "Q216766",
+      "label": "Francisco I. Madero"
+    },
+    "replacedBy": {
+      "value": "Q299168",
+      "label": "Victoriano Huerta"
+    },
+    "start": {
+      "value": "1913-02-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1913-02-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q315621$E7B37712-40E6-4883-958F-B4DFCF14A7CD",
+    "ordinal": "34"
   },
   {
     "item": {
@@ -1221,6 +1258,30 @@
   },
   {
     "item": {
+      "value": "Q372164",
+      "label": "Francisco S. Carvajal"
+    },
+    "replaces": {
+      "value": "Q299168",
+      "label": "Victoriano Huerta"
+    },
+    "replacedBy": {
+      "value": "Q313122",
+      "label": "Venustiano Carranza"
+    },
+    "start": {
+      "value": "1914-07-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1914-08-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q372164$EE2E1D35-FF00-4EC2-8793-ACE1F9677283",
+    "ordinal": "36"
+  },
+  {
+    "item": {
       "value": "Q137865",
       "label": "Adolfo de la Huerta"
     },
@@ -1241,6 +1302,30 @@
       "precision": "11"
     },
     "statement": "Q137865$313b1e93-41ae-3b93-1b38-4e9a3a417a20"
+  },
+  {
+    "item": {
+      "value": "Q217498",
+      "label": "Álvaro Obregón"
+    },
+    "replaces": {
+      "value": "Q137865",
+      "label": "Adolfo de la Huerta"
+    },
+    "replacedBy": {
+      "value": "Q315066",
+      "label": "Plutarco Elías Calles"
+    },
+    "start": {
+      "value": "1920-12-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1924-11-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q217498$29B84AEA-2909-40C4-9B04-79B76ED2916F",
+    "ordinal": "39"
   },
   {
     "item": {
@@ -1289,6 +1374,21 @@
     },
     "statement": "Q380982$F4809073-FD1D-4D69-ADF5-64C22C8DBBA6",
     "ordinal": "41"
+  },
+  {
+    "item": {
+      "value": "Q455683",
+      "label": "Pascual Ortiz Rubio"
+    },
+    "start": {
+      "value": "1930-02-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1932-09-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q455683$1B6681DA-D3C4-47E9-AC0C-57384138D685"
   },
   {
     "item": {
